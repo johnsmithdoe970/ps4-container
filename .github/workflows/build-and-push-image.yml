@@ -7,7 +7,7 @@ on:
 env:
   DOCKER_IMAGE_ORG: ghcr.io/johnsmithdoe970
   DOCKER_IMAGE_REPO: ps4jb
-  DOCKER_IMAGE_UPSTREAMBRANCH: master
+  DOCKER_IMAGE_UPSTREAMBRANCH: 702
   DOCKER_IMAGE_TAG: latest
 jobs:
   build:
